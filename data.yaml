@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/AI/Indian_Railway/Data
+train: /content/drive/MyDrive/AI/Indian_Railway/Data/train/images
+val: /content/drive/MyDrive/AI/Indian_Railway/Data/val/images
+
+# Classes
+nc : 6
+names: ['OHE Pole', 'Signal Pole', 'Silver Box', 'Sign Board', 'Tunnel', 'Station Name Board']
+
